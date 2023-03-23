@@ -1,8 +1,8 @@
   Hi there  👋
-- I currently work as a Fuel Analyst. I got my Bachelor's Degree in Business Finance. After graduating I worked in 3 different accounting firms. I'm looking to transition into a tech role in the coming years. My main goal is to be a Software Engineer one day.  
+- I currently work as a Fuel Analyst. I got my Bachelor's Degree in Business Finance. After graduating I worked in 3 different accounting firms. I'm looking to grow my analytical skills. 
 
-- 🌱 I’m currently learning Java and SQL. I'm also very intereseted in learning HTML, Python, C, and C++. 
- I’m currently enrolled in the backend software program with Promineo Tech. I plan on graduating this coming January 2023. 🎓
+- 🌱 Skilled in Java, SQL and WebAPI using SpringBoot. Currently learning Pyhton and AWS.  
+ I finished a backend software program with Promineo Tech in Jan. I'm currenly now taking Big Data Engineering and I plan on graduating this coming August 2023. 🎓
 
 - 📫 How to reach me at: 
 - Email: adrianedirisin@gmail.com 
