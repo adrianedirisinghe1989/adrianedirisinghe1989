@@ -1,7 +1,7 @@
   Hi there  👋
 - I currently work as a Fuel Analyst. I got my Bachelor's Degree in Business Finance. After graduating I worked in 3 different accounting firms. I'm looking to grow my analytical skills. 
 
-- 🌱 Skilled in Java, SQL and WebAPI using SpringBoot. Currently learning Pyhton and AWS.  
+- 🌱 Skilled in Java, SQL and WebAPI using SpringBoot. Currently learning Python and AWS.  
  I finished a backend software program with Promineo Tech in Jan. I'm currenly now taking Big Data Engineering and I plan on graduating this coming August 2023. 🎓
 
 - 📫 How to reach me at: 
